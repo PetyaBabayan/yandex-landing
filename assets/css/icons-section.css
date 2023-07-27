@@ -1,0 +1,49 @@
+.yandex-go-icons-section-container {
+    background-color: #FFDE40;
+    padding-top: 60px;
+    padding-bottom: 180px;
+}
+.yandex-go-icons-section-title {
+    font-size: 64px;
+    font-family: YandexBold;
+    padding-top: 40px;
+    padding-right: 180px;
+    text-align: center;
+}
+.yandex-go-icons-section-main-content-left-side-block-1,
+.yandex-go-icons-section-main-content-left-side-block-2,
+.yandex-go-icons-section-main-content-left-side-block-3 {
+    width: 455px;
+    position: relative;
+}
+.yandex-go-icons-section-main-content-left-side-block-1-text,
+.yandex-go-icons-section-main-content-left-side-block-2-text,
+.yandex-go-icons-section-main-content-left-side-block-3-text {
+    font-size: 36px;
+    font-family: YandexBold;
+    padding-top: 20px;
+}
+.yandex-go-icons-section-main-content-left-side {
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+}
+.yandex-go-icons-section-main-content-wrapper {
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 80px;
+    padding-right: 340px;
+    display: flex;
+    justify-content: space-between;
+}
+.yandex-go-vid {
+    border: none;
+    width: 360px;
+    padding-bottom: 150px;
+    padding-left: 120px;
+}
+.yandex-go-icons-section-main-content-arrow {
+    position: absolute;
+    left: 400px;
+    top: 60px;
+}

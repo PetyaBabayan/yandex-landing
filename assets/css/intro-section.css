@@ -1,0 +1,59 @@
+.yandex-go-intro-section-main-info-container {
+    background-color: #FFDE40;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.yandex-go-intro-section-main-info-img {
+    width: 920px;
+    padding-top: 80px;
+} 
+
+.yandex-go-intro-section-main-info-download-app-wrapper {
+    width: 510px;
+    padding-right: 420px;
+    position: absolute;
+    bottom: -120px;
+}
+.yandex-go-intro-section-main-info-download-app-text {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: YandexBold;
+}
+.yandex-go-intro-section-main-info-download-app-btn {
+    border: none;
+    border-radius: 20px;
+    font-size: 24px;
+    font-family: YandexBold;
+    background-color: #21201F;
+    color: #ffffff;
+    padding: 24px 64px;
+    margin-top: 30px;
+}
+
+.yandex-go-intro-section-cities-container {
+    background-color: #FFDE40;
+}
+.yandex-go-intro-section-cities-title {
+    font-size: 64px;
+    color: #ffffff;
+    font-family: YandexBold;
+    padding-top: 200px;
+    padding-right: 40px;
+    width: 900px;
+    margin: 0 auto;
+}
+.yandex-go-intro-section-cities-title a {
+    text-decoration: underline;
+}
+.yandex-go-intro-section-cities-right-sticks {
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    right: 260px;
+    bottom: -180px;
+}
+.yandex-go-intro-section-cities-bottom-sticks {
+    position: absolute;
+} 

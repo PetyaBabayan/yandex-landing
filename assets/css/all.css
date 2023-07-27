@@ -1,0 +1,17 @@
+@import url(./reset.css);
+@import url(./intro-section.css);
+@import url(./navbar.css);
+@import url(./icons-section.css);
+@import url(./black-btn.css);
+@import url(./rates-section.css);
+@import url(./white-section.css);
+
+@font-face {
+    font-family: YandexRegular;
+    src: url(../fonts/yandex/YandexSansText-Regular.ttf);
+}
+
+@font-face {
+    font-family: YandexBold;
+    src: url(../fonts/yandex/YandexSansText-Bold.ttf);
+}

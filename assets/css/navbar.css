@@ -1,0 +1,28 @@
+.yandex-go-intro-section-navbar-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: #FFDE40;
+}
+.yandex-go-intro-section-list {
+    display: flex;
+    gap: 18px;
+    font-family: YandexRegular;
+    font-weight: bold;
+}
+.yandex-go-intro-section-navbar-btn {
+    font-size: 20px;
+    border: none;
+    border-radius: 18px;
+    color: #FFFFFF;
+    background-color: #21201F;
+    padding: 14px 60px;
+    font-family: YandexBold;
+}
+.yandex-go-intro-section-navbar-logo {
+    width: 160px;
+}

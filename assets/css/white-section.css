@@ -1,0 +1,62 @@
+.yandex-go-white-section-container {
+    padding-top: 200px;
+    width: 100%;
+    background-color: white;
+    border-top-right-radius: 70px;
+    border-top-left-radius: 70px;
+}
+
+.yandex-go-white-section-inner {
+    width: 1000px;
+    height: 900px;
+    margin: 0 auto;
+    position: relative;
+}
+.yandex-go-white-section-inner-title {
+    font-size: 84px;
+    width: 550px;
+    font-family: YandexBold;
+    position: absolute;
+    top: -100px;
+    left: 10px;
+}
+.yandex-go-white-section-inner img {
+    width: 500px;
+    position: absolute;
+    right: -100px;
+    top: -140px;
+}
+.yandex-go-white-section-inner-text {
+    font-size: 32px;
+    font-family: YandexRegular;
+    font-weight: bold;
+    line-height: 40px;
+    width: 800px;
+    position: absolute;
+    top: 300px;
+    left: 10px;
+}
+.yandex-go-free-start {
+    position: absolute;
+    bottom: 200px;
+    left: 10px;
+}
+
+.yandex-go-free-wait {
+    position: absolute;
+    bottom: 220px;
+    left: 600px;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: YandexBold;
+}
+.text {
+    font-size: 22px;
+    font-family: YandexRegular;
+    font-weight: 400;
+    width: 420px;
+    padding-top: 20px;
+}

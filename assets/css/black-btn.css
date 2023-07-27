@@ -1,0 +1,20 @@
+.yandex-go-black-button-section {
+    background-color: #FFDE40;
+    padding-top: 30px;
+}
+.yandex-go-black-button {
+    background-color: #21201F;
+    font-size: 40px;
+    text-align: center;
+    font-family: YandexBold;
+    width: 800px;
+    padding: 70px 64px;
+    margin-top: 40px;
+    border-radius: 70px;
+    margin: 0 auto;
+}
+.yandex-go-black-button-text {
+    width: 600px;
+    margin: 0 auto;
+    color: white;
+}

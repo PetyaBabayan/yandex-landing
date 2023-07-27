@@ -1,0 +1,216 @@
+.yandex-go-rates-section-container {
+    width: 100%;
+    height: auto;
+    background-color: #FFDE40;
+    padding-top: 60px;
+    padding-bottom: 300px;
+    display: flex;
+    justify-content: center;
+}
+.yandex-go-rates-inner-wrapper {
+    width: 1000px;
+    height: 1200px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #FFDE40;
+}
+
+.yandex-go-rates-section-1 {
+    border: 5px solid black;
+    border-radius: 60px;
+    width: 500px;
+    height: 400px;
+    position: relative;
+}
+.yandex-go-rates-section-1 img {
+    position: absolute;
+    top: 60px;
+    left: 50px;
+} 
+.yandex-go-rates-section-1-title {
+    font-size: 36px;
+    font-family: YandexBold;
+    font-weight: bold;
+    padding: 72px 56px;
+    position: absolute;
+    top: 80px;
+    left: -10px;
+}
+.yandex-go-rates-section-1-text {
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    font-size: 22px;
+    width: 400px;
+    font-weight: 900;
+    line-height: 28px;
+}
+
+
+.yandex-go-rates-section-2 {
+    border: 5px solid black;
+    border-radius: 60px;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: 200px;
+    right: -160px;
+    /* position: relative;
+    margin-top: 100px;
+    margin-left: 40px; */
+} 
+.yandex-go-rates-section-2 img {
+    position: absolute;
+    top: 60px;
+    left: 50px;
+} 
+.yandex-go-rates-section-2-title {
+    font-size: 36px;
+    font-family: YandexBold;
+    font-weight: bold;
+    padding: 72px 56px;
+    position: absolute;
+    top: 80px;
+    left: -10px;
+}
+.yandex-go-rates-section-2-text {
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    font-size: 22px;
+    width: 300px;
+    font-weight: 900;
+    line-height: 28px;
+    padding-top: 30px;
+}
+
+.yandex-go-rates-section-3 {
+    border: 5px dashed black;
+    border-radius: 60px;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    margin-top: 20px;
+}
+.yandex-go-rates-section-3-title {
+    font-size: 36px;
+    font-family: YandexBold;
+    font-weight: bold;
+    padding: 72px 56px;
+    position: absolute;
+    top: 40px;
+    left: -10px;
+}
+.yandex-go-rates-section-3-text {
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    font-size: 22px;
+    width: 400px;
+    font-weight: 900;
+    line-height: 28px;
+}
+
+.yandex-go-rates-section-4 {
+    border: 5px solid black;
+    border-radius: 60px;
+    width: 700px;
+    height: 400px;
+    position: relative;
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+}
+.yandex-go-rates-section-4-title {
+    font-size: 36px;
+    font-family: YandexBold;
+    font-weight: bold;
+    padding: 72px 56px;
+    position: absolute;
+    top: 20px;
+    left: -10px;
+}
+.yandex-go-rates-section-4-text {
+    position: absolute;
+    top: 160px;
+    left: 50px;
+    font-size: 22px;
+    width: 400px;
+    font-weight: 900;
+    line-height: 28px;
+}
+.yandex-go-rates-section-4-text-2 {
+    position: absolute;
+    top: 290px;
+    left: 50px;
+    font-size: 22px;
+    width: 400px;
+    font-weight: 900;
+    line-height: 28px;
+}
+
+.yandex-go-rates-section-left-side {
+    width: 700px;
+    height: 700px;
+    position: relative;
+    padding-right: 200px;
+}
+.yandex-go-rates-section-right-side {
+    position: absolute;
+    right: 200px;
+} 
+
+.yandex-go-rates-section-5 {
+    border: none;
+    border-radius: 60px;
+    width: 500px;
+    height: 400px;
+    /* position: relative; */
+    z-index: 99;
+    background-image: url(../images/blocks-icons/third-tarif-bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: -250px;
+    bottom: -230px;
+}
+.yandex-go-rates-section-5 img {
+    width: 100px;
+    position: absolute;
+    right: 60px;
+    top: 70px;
+}
+.yandex-go-rates-section-5-title {
+    font-size: 36px;
+    font-family: YandexBold;
+    font-weight: bold;
+    padding: 72px 56px;
+    position: absolute;
+    top: 10px;
+    left: -10px;
+    width: 200px;
+}
+.yandex-go-rates-section-5-text {
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    font-size: 22px;
+    width: 300px;
+    font-weight: 900;
+    line-height: 28px;
+}
+.yandex-go-rates-section-6-img {
+    width: 460px;
+    height: 430px;
+    border-radius: 60px;
+    /* border: px solid black; */
+    position: absolute;
+    right: -210px;
+    top: 260px;
+}
+.yandex-go-rates-section-6-img img {
+    width: 460px;
+    height: 430px;
+    border-radius: 60px;
+    border: 5px solid black;
+}
